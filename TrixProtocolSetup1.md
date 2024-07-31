@@ -13,3 +13,5 @@
 > `9`  `chmod +x open_trix.lpp          ` Authorize file execution  
 
 > `0`  `wrun open_trix.lpp` to run `OpenTrix protocol` & `bandiz shcner`
+
+**[go back to document](TrixNetworking.md)**
